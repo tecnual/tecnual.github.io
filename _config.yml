@@ -5,7 +5,7 @@ permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Comments
-discus_identifier: mr-brown
+discus_identifier: tecnual
 
 # Social settings
 twitter_url: https://twitter.com/artemsheludko_
