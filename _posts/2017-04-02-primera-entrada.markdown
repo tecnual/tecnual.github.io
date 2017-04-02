@@ -4,7 +4,7 @@ title:  "Nuevo blog de tecnual!"
 description: Primera entrada del blog.
 date: 2017-04-02 15:10:25 +0200
 categories: tecnual
-img: 1000.jpg
+img: nube-javascript.jpg
 author: tecnual
 ---
 
@@ -16,6 +16,7 @@ Me he dejado llevar por el mundo JavaScript y este blog estará enfocado sobreto
 
 
 {% highlight typescript %}
-console.log('Hola mundo!')
-// prints 'Hola mundo' to STDOUT.
+console.log('Las cosas más importantes no son cosas')
+// prints 'Las cosas más importantes no son cosas' to STDOUT.
+
 {% endhighlight %}

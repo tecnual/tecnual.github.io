@@ -8,8 +8,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 discus_identifier: tecnual
 
 # Social settings
-twitter_url: https://twitter.com/artemsheludko_
-facebook_url: https://facebook.com/
+twitter_url: https://twitter.com/tecnual
+facebook_url: https://facebook.com/tecnual
 googleplus_url: https://plus.google.com/
-instagram_url: https://instagram.com
-github_url: https://github.com/artemsheludko/
+instagram_url:
+github_url: https://github.com/tecnual/
