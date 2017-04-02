@@ -826,7 +826,7 @@ blockquote {
 .site-header {
   position: fixed;
   text-align: center;
-  background-color: rgba(44, 0, 30, 0.95);
+  background-color: rgba(44, 0, 30, 1);
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
   top: 0;
   left: 0;
