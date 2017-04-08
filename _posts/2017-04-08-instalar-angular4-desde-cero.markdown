@@ -3,7 +3,7 @@ layout: post
 title:  "Instalar Angular 4 desde cero"
 description: Recientemente ha sido liberada la nueva versión de Angular. El equipo de Angular se han centrado sobre todo en mejorarlo de forma interna en cuanto a seguridad y velocidad y han conseguido que sea totalmente compatible con Angular 2 y no trae grandes cambios a la hora de programar.
 date: 2017-04-08 15:10:25 +0200
-categories: dev, Angular, TypeScript
+categories: Programacion, Angular4, TypeScript
 img: posts/angular4.png
 author: tecnual
 ---
@@ -30,7 +30,6 @@ Para actualizar un proyecto de Angular2 basta con instalar las nuevas dependenci
 
 ```
 npm install @angular/{common,compiler,compiler-cli,core,forms,http,platform-browser,platform-browser-dynamic,platform-server,router,animations}@latest typescript@latest --save
-
 ```
 Es importante comprobar en el archivo package.json que las dependencias se han actualizado correctamente a la nueva versión.
 
