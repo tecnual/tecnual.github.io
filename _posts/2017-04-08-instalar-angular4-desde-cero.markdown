@@ -4,13 +4,13 @@ title:  "Instalar Angular 4 desde cero"
 description: Recientemente ha sido liberada la nueva versión de Angular. El equipo de Angular se han centrado sobre todo en mejorarlo de forma interna en cuanto a seguridad y velocidad y han conseguido que sea totalmente compatible con Angular 2 y no trae grandes cambios a la hora de programar.
 date: 2017-04-08 15:10:25 +0200
 categories: dev, Angular, TypeScript
-img: posts/angular4.png
+img: posts/angular4.jpg
 author: tecnual
 ---
 
 Recientemente ha sido liberada la nueva versión de Angular. El equipo de desarrollo se ha centrado sobre todo en mejorarlo de forma interna en cuanto a seguridad y velocidad, han conseguido que sea compatible con la mayoría de las aplicaciones Angular 2 y no trae grandes cambios a la hora de programar. Empezaremos por instalar Angular 4 en nuestro equipo y desplegar nuestra primera aplicación.
 
-Mi equipo de desarrollo es Ubuntu 16.04 y todos los comandos que se van a mostrar en este post se ejecutaran sobre esta plataforma, de todas maneras tanto para Windows como para Mac los cambios son mínimos y probablemente funcione en la mayoría de los equipos, pero hay que tenerlo en cuenta.
+Mi equipo de desarrollo es Ubuntu 16.04 y todos los comandos que se van a mostrar en este post se ejecutaran sobre esta plataforma, de todas maneras tanto para Windows como para Mac los cambios son mínimos y probablemente funcionen en la mayoría de los equipos, pero hay que tenerlo en cuenta.
 
 En primer lugar tenemos que asegurarnos de tener instalado la ultima versión de nodeJS, podéis seguir las indicaciones oficiales aquí: https://nodejs.org/es/download/
 
@@ -50,7 +50,7 @@ En este momento ya tenemos nuestra aplicación disponible en http://localhost:30
 
 # angular-cli
 
-En mi opinión la mejor manera de instalar Angular es con su interfaz de comandos **angular-cli**.
+En mi opinión, la mejor manera de instalar Angular es con su interfaz de comandos **angular-cli**.
 
 A continuación describo los pasos a seguir...
 
@@ -98,7 +98,7 @@ cd my-app
 ng serve --open
 
 ```
-El comando `ng serve` arranca el servidor, observa los ficheros y reconstruye la aplicación a medida que realiza cambios en esos archivos.
+El comando `ng serve` arranca el servidor, observa los ficheros y reconstruye la aplicación a medida que realizamos cambios en esos archivos.
 
 Usando la opción `--open` se abrirá automáticamente nuestra aplicación en el navegador que tengamos configurado por defecto en la url http://localhost:4200/
 
