@@ -1,6 +1,6 @@
 title: Tecnual
-description: Mr.Brown is a responsive jekyll theme
-url: "https://tecnual.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+description: Tecnología intelectual
+url: "https://blog.tecnual.com" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
 
