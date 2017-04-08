@@ -1,8 +1,9 @@
 <div class="post-share">
-  <h5>Share:</h5>
-  <a href="" title="Share on Twitter" onclick="window.open('https://twitter.com/home?status={{ page_title }} - {{ page.url | absolute_url }} {% if site.social.twitter %}by @{{ site.social.twitter }}{% endif %}', 'newwindow', 'width=500, height=225'); return false;" data-turbolinks="false">
+  <h5>Compartir:</h5>
+  <a href="https://twitter.com/share" data-url="{{ page.url | absolute_url }}" data-text="{{ page.title}}" data-via="tecnual" data-lang="es" data-size="large" data-related="tecnual" data-hashtags="{{ page.categories }}">
     <i class="fa fa-twitter" aria-hidden="true"></i>
   </a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
   <a href="" title="Share on Facebook" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}', 'newwindow', 'width=500, height=500'); return false;" data-turbolinks="false">
     <i class="fa fa-facebook" aria-hidden="true"></i>
   </a>
