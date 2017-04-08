@@ -8,6 +8,8 @@ img: 1000.jpg
 author: Artem Sheludko
 ---
 
+La humildad no es pensar que eres menos, es pensar menos sobre ti
+
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui doloribus, esse natus totam delectus excepturi nulla suscipit tenetur id corrupti mollitia commodi.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui doloribus, esse natus totam delectus excepturi nulla suscipit tenetur id corrupti mollitia commodi.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Earum unde nihil qui doloribus, esse natus totam delectus excepturi nulla suscipit tenetur id corrupti mollitia commodi.
