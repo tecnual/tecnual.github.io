@@ -1177,11 +1177,17 @@ blockquote {
 .copyright li a:hover {
   color: wheat;
 }
-.copyright li:first-child::after {
+.copyright li:after {
   content: "|";
   display: inline-block;
   padding-left: 0.6rem;
 }
+.copyright li:last-child:after {
+  content: "|";
+  display: inline-block;
+  padding-left: 0.6rem;
+}
+
 
 .page-container {
   max-width: 960px;
