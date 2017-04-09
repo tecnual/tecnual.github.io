@@ -13,5 +13,9 @@ facebook_url: https://facebook.com/tecnual
 github_url: https://github.com/tecnual/
 
 # Analytics
-
 google_analytics: UA-1207384-8
+
+# Sass settings
+sass:
+  sass_dir: _sass
+  style: compressed

@@ -21,10 +21,10 @@ Para instalar Angular 4 existen varios métodos, estos son los principales:
 * Clonar un repositorio de Angular 4 desde GitHub.
 * angular-cli (Command Line Interface)
 
-# Manual
+## Manual
  El método manual es inviable, realmente engorroso y no lo recomiendo, aún así si hay alguien que le guste la aventura enlazo aquí a la [documentación oficial](https://angular.io/docs/ts/latest/)
 
-# Actualizar un proyecto de Angular2
+## Actualizar un proyecto de Angular2
 
 Para actualizar un proyecto de Angular2 basta con instalar las nuevas dependencias:
 
@@ -33,7 +33,7 @@ npm install @angular/{common,compiler,compiler-cli,core,forms,http,platform-brow
 ```
 Es importante comprobar en el archivo package.json que las dependencias se han actualizado correctamente a la nueva versión.
 
-# Clonar un repositorio de Angular 4 desde GitHub.
+## Clonar un repositorio de Angular 4 desde GitHub.
 
 Otra manera de instalar Angular 4 es a través de un repositorio de GitHub, para ello el equipo de Angular ha creado un repositorio especifico para instalar una aplicación por defecto.
 He hecho un fork del repositorio oficial y he actualizado las dependencias a Angular 4, de esta manera la instalación se realiza en cuatro sencillos pasos:
@@ -47,13 +47,13 @@ npm start
 
 En este momento ya tenemos nuestra aplicación disponible en http://localhost:3000/
 
-# angular-cli
+## angular-cli
 
 En mi opinión, la mejor manera de instalar Angular es con su interfaz de comandos **angular-cli**.
 
 A continuación describo los pasos a seguir...
 
-## 1. Instalar de forma global las dependencias.
+### 1. Instalar de forma global las dependencias.
 
 ```
 npm install -g @angular/cli
@@ -78,8 +78,7 @@ os: linux x64
 
 ```
 
-
-## 2. Crear un nuevo proyecto.
+### 2. Crear un nuevo proyecto.
 
 ```
 ng new my-app --ng4
@@ -89,21 +88,21 @@ Esto es lo que genera nuestro nuevo proyecto, es un proceso que toma su tiempo, 
 
 Para que nuestro proyecto se instale con la nueva versión debemos habilitar el flag `--ng4` o actualizarlo después tal y como vimos en el apartado anterior.
 
-
-## 3. Iniciamos nuestra aplicación.
+### 3. Iniciamos nuestra aplicación.
 
 ```
 cd my-app
 ng serve --open
 
 ```
+
 El comando `ng serve` arranca el servidor, observa los ficheros y reconstruye la aplicación a medida que realizamos cambios en esos archivos.
 
 Usando la opción `--open` se abrirá automáticamente nuestra aplicación en el navegador que tengamos configurado por defecto en la url http://localhost:4200/
 
 Hasta aquí el proceso de instalación, a continuación vemos como podemos iniciar el proceso de desarrollo de nuestra aplicación realizando unos pequeños cambios en la app.
 
-## 4. Editar un componente.
+### 4. Editar un componente.
 
 Angular-cli crea el primer componente de la aplicación. Es el componente raíz y se llama `app-root`. Lo puedes encontrar en ./src/app/app.component.ts.
 
