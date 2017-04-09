@@ -404,8 +404,13 @@ blockquote {
       }
     }
 
-    &:first-child::after {
+    &::after {
       content: "|";
+      display: inline-block;
+      padding-left: 0.6rem;
+    }
+    &:last-child::after {
+      content: "";
       display: inline-block;
       padding-left: 0.6rem;
     }

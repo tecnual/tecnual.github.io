@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Instalar Angular 4 desde cero"
-description: Recientemente ha sido liberada la nueva versión de Angular. El equipo de Angular se han centrado sobre todo en mejorarlo de forma interna en cuanto a seguridad y velocidad y han conseguido que sea totalmente compatible con Angular 2 y no trae grandes cambios a la hora de programar.
+description: Recientemente ha sido liberada la nueva versión de Angular. El equipo de desarrollo se ha centrado sobre todo en mejorarlo de forma interna en cuanto a seguridad y velocidad, han conseguido que sea compatible con la mayoría de las aplicaciones Angular 2 y no trae grandes cambios a la hora de programar. Empezaremos por instalar Angular 4 en nuestro equipo y desplegar nuestra primera aplicación.
 date: 2017-04-08 15:10:25 +0200
 categories: Programacion, Angular4, TypeScript
 img: posts/angular4.png
