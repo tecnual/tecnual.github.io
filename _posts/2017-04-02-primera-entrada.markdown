@@ -4,7 +4,7 @@ title:  "Nuevo blog de tecnual!"
 description: Primera entrada del blog.
 date: 2017-04-02 15:10:25 +0200
 categories: tecnual
-img: nube-javascript.jpg
+img: cloud.jpg
 author: tecnual
 ---
 
