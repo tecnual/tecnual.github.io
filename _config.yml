@@ -19,3 +19,7 @@ google_analytics: UA-1207384-8
 sass:
   sass_dir: _sass
   style: compressed
+
+# gems
+gems:
+    - jekyll-sitemap
