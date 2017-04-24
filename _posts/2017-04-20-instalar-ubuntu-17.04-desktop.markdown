@@ -121,10 +121,9 @@ Al hacer click en `Continuar` se inicia el proceso de inatalación y copia de ar
 
 ![Ubuntu 17.04 Zapus Zesty](/assets/images/posts/4/captura-escritorio.png)
 
-
+¡A disfrutar!
 
 {% highlight typescript %}
-console.log('Las cosas más importantes no son cosas')
-// prints 'Las cosas más importantes no son cosas' to STDOUT.
-
+console.log('El fin de la espera llegó, con el la agitación...
+de ver como la luna gana la guerra al sol. SOBER')
 {% endhighlight %}
