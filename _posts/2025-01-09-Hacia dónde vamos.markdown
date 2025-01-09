@@ -1,10 +1,10 @@
 ---
-title: "Angular: ¿Hacia dónde vamos"
-date: 2025-01-09
-author: Pedro
+title: "Angular: ¿Hacia dónde vamos?"
+date: 2025-01-09 12:00:00 +0200
+author: Tecnual
 tags: [Angular, JavaScript, Frameworks, Desarrollo Web]
 categories: Programacion, Angular, TypeScript
-img: posts/futuro-angular.jpg
+img: posts/futuro-angular.png
 layout: post
 ---
 
